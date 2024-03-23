@@ -11,16 +11,12 @@ Follow these instructions to set up and use the API on your local machine:
 1. Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 2. Clone this repository or download the source code.
 
-```bash
-git clone https://github.com/your_username/simple-customer-api.git
-```
-
-1. Navigate into the project directory:
+3. Navigate into the project directory:
 ```bash
 cd simple-customer-api
 ```
 
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 npm install
 ```
